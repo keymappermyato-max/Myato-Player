@@ -1,0 +1,6 @@
+{
+  "name": "Myato Player",
+  "description": "Aplicativo profissional de reprodução de músicas offline com equalizador real, temas neon e organizador de biblioteca.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
